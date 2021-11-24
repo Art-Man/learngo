@@ -161,8 +161,10 @@ func main() {
 ```go
 package main
 
+import "fmt"
+
 func main() {
-    fmt.Println(Hi! I want to be a Gopher!)
+    fmt.Println("Hi! I want to be a Gopher!")
 }
 ```
 * Hi! I want to be a Gopher!

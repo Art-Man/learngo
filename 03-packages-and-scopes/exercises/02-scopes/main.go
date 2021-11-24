@@ -31,9 +31,9 @@ import "fmt"
 // ---------------------------------------------------------
 
 func main() {
-	hello()
+	hello11()
 }
 
-func bye() {
+func bye11() {
 	fmt.Println("good bye!")
 }
